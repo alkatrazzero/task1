@@ -1,0 +1,9 @@
+{
+  "NODE_ENV": "development",
+  "PORT": 3000,
+  "SESSION_SECRET": "t7a60k0Xh2l9f1upZEIgn7CAfTn8kUZh",
+  "BASE_URL": "http://localhost:3000",
+  "REDIS_URL": "redis://localhost:6379/1",
+  "MONGO_URL": "mongodb://127.0.0.1:27017/myapp",
+  "COPY_TO_ENV": ["MONGO_URL"]
+}
